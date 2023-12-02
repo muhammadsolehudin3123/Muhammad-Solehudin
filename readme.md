@@ -9,7 +9,8 @@ Sistem ini merupakan implementasi project PHP yang dirancang untuk mendata infor
 ![Cuplikan layar 2023-12-02 120924](https://github.com/Solehudin3123/Sistem-penggajian/assets/152485242/de44db4f-b046-47be-bd87-54c9a9e540a3)
 # Tampilan
 ## login
-![Cuplikan layar 2023-12-02 124435](https://github.com/Solehudin3123/Sistem-penggajian/assets/152485242/ce501f14-3072-42c9-a12c-80a66bbadbd7)
+![Cuplikan layar 2023-12-02 171600](https://github.com/muhammadsolehudin3123/Muhammad-Solehudin/assets/152485242/bf9ea1f4-ef98-4abb-b940-90aacf7647db)
+
 ## Dashboard
 ![Cuplikan layar 2023-12-02 121009](https://github.com/Solehudin3123/Sistem-penggajian/assets/152485242/ef0f12b1-d80e-4943-8663-8c5726556f4e)
 ## Data dosen
