@@ -2,12 +2,10 @@
 Dibuat untuk memenuhi tugas mata kuliah Sistem Informasi Akuntansi
 
 Muhammad Solehudin
-
 12030122130144
-
 Sistem Informasi Akuntansi
-
 Kelas A (S1 Akuntansi)
+
 # Deskripsi
 Sistem Penggajian Dosen  adalah aplikasi berbasis Web untuk mengatur dan mencatat Pembayaran Gaji dosen berdasarkan Status Dosen dan jumlah sks dalam mengajar.
 # Cara Login
