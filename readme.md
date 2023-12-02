@@ -15,19 +15,18 @@ Username: admin02
 Pasword : admin123
 # Panduan Istalasi
 ## Clone repository ini atau download di
-$ git clone https://github.com/RizkyFarrasAbdullah/SistemInformasiAkuntansi-Sistem-Persediaan-Barang.git
-
+$ git clone https://github.com/muhammadsolehudin3123/Muhammad-Solehudin.git
 ## Buat database
-Buat database dengan nama "inventory" di DMBS [phpmyadmin, dll]
+Buat database dengan nama "db_gaji_rev" di DMBS [phpmyadmin, dll]
 
 ## Upload database
-Arahkan folder ke Sistem-Persediaan-Barang/database/inventory.sql & upload ke dbms [phpmyadmin]
+Arahkan folder ke C:\xampp\htdocs\penggajian-dosen\db_file & upload ke dbms [phpmyadmin]
 
-## Cut Folder SistemInformasiAkuntansi-Sistem-Persediaan-Barang
+## Cut Folder penggajian-dosen
 Paste di folder xampp/htdocs
 
 ## Buka browser
-http://localhost/SistemInformasiAkuntansi-Sistem-Persediaan-Barang/
+http://localhost/penggajian-dosen/
 
 ## Enjoy, jika ingin login maka liat panduan akun diatas
 # Flowchart
