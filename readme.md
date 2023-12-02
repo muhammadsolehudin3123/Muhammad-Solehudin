@@ -1,4 +1,35 @@
-Sistem ini merupakan implementasi project PHP yang dirancang untuk mendata informasi terkait penggajian dosen untuk memberikan informasi kepada banyak pengguna dalam suatu organisasi/entitas dengan menggunakan framework PHP 5.3.7
+# Pendahuluan 
+Dibuat untuk memenuhi tugas mata kuliah Sistem Informasi Akuntansi
+
+Muhammad Solehudin
+
+12030122130144
+
+Sistem Informasi Akuntansi
+
+Kelas A (S1 Akuntansi)
+# Deskripsi
+Sistem Penggajian Dosen  adalah aplikasi berbasis Web untuk mengatur dan mencatat Pembayaran Gaji dosen berdasarkan Status Dosen dan jumlah sks dalam mengajar.
+# Cara Login
+Username: admin02
+Pasword : admin123
+# Panduan Istalasi
+## Clone repository ini atau download di
+$ git clone https://github.com/RizkyFarrasAbdullah/SistemInformasiAkuntansi-Sistem-Persediaan-Barang.git
+
+## Buat database
+Buat database dengan nama "inventory" di DMBS [phpmyadmin, dll]
+
+## Upload database
+Arahkan folder ke Sistem-Persediaan-Barang/database/inventory.sql & upload ke dbms [phpmyadmin]
+
+## Cut Folder SistemInformasiAkuntansi-Sistem-Persediaan-Barang
+Paste di folder xampp/htdocs
+
+## Buka browser
+http://localhost/SistemInformasiAkuntansi-Sistem-Persediaan-Barang/
+
+## Enjoy, jika ingin login maka liat panduan akun diatas
 # Flowchart
 ![ul](https://github.com/Solehudin3123/Sistem-penggajian/assets/152485242/04bb892e-c891-4a2c-aac9-c2a05f3475d2)
 # ERD
@@ -10,8 +41,8 @@ Sistem ini merupakan implementasi project PHP yang dirancang untuk mendata infor
 # Tampilan
 ## login
 ![Cuplikan layar 2023-12-02 171600](https://github.com/muhammadsolehudin3123/Muhammad-Solehudin/assets/152485242/bf9ea1f4-ef98-4abb-b940-90aacf7647db)
-
 ## Dashboard
-![Cuplikan layar 2023-12-02 121009](https://github.com/Solehudin3123/Sistem-penggajian/assets/152485242/ef0f12b1-d80e-4943-8663-8c5726556f4e)
+![Cuplikan layar 2023-12-02 171744](https://github.com/muhammadsolehudin3123/Muhammad-Solehudin/assets/152485242/2eb83d44-7b8b-4f54-ba1c-d0fa323447e6)
 ## Data dosen
-![Cuplikan layar 2023-12-02 121044](https://github.com/Solehudin3123/Sistem-penggajian/assets/152485242/bcc14e43-8ab7-4c0c-8500-484249925e50)
+![Cuplikan layar 2023-12-02 171756](https://github.com/muhammadsolehudin3123/Muhammad-Solehudin/assets/152485242/136e66e1-f983-4447-b535-7dfd3179c731)
+
