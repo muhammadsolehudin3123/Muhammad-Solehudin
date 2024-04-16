@@ -44,6 +44,23 @@ http://localhost/penggajian-dosen/
 ![Cuplikan layar 2023-12-02 171600](https://github.com/muhammadsolehudin3123/Muhammad-Solehudin/assets/152485242/bf9ea1f4-ef98-4abb-b940-90aacf7647db)
 ## Dashboard
 ![Cuplikan layar 2023-12-02 171744](https://github.com/muhammadsolehudin3123/Muhammad-Solehudin/assets/152485242/2eb83d44-7b8b-4f54-ba1c-d0fa323447e6)
+
+
+
+# tampilam
+
+![Screenshot (35)](https://github.com/muhammadsolehudin3123/Muhammad-Solehudin/assets/152485242/066feadf-6297-4e15-b686-ab727865ac38)
+
+# rfdfgghfdhd
+
+![Screenshot (29)](https://github.com/muhammadsolehudin3123/Muhammad-Solehudin/assets/152485242/cf101d68-dcf7-417f-a7a5-e9ab51335491)
+![Screenshot (30)](https://github.com/muhammadsolehudin3123/Muhammad-Solehudin/assets/152485242/ebe2cbda-f43f-464c-9057-e20f8273e5c5)![Uploading Screenshot (34).png…]()
+![Screenshot (33)](https://github.com/muhammadsolehudin3123/Muhammad-Solehudin/assets/152485242/273cbd00-bb30-4708-9a23-c1887c19837f)
+![Screenshot (32)](https://github.com/muhammadsolehudin3123/Muhammad-Solehudin/assets/152485242/7ccb0bc0-96f8-4e64-8397-1726453795ef)
+![Screenshot (31)](https://github.com/muhammadsolehudin3123/Muhammad-Solehudin/assets/152485242/3610622b-522a-44d2-88ce-c617d8162146)
+
+
+
 ## Data dosen
 ![Cuplikan layar 2023-12-02 171756](https://github.com/muhammadsolehudin3123/Muhammad-Solehudin/assets/152485242/136e66e1-f983-4447-b535-7dfd3179c731)
 
